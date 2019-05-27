@@ -3,12 +3,12 @@
 <suite name="Failed suite [Default suite]">
   <test name="Default test(failed)">
     <classes>
-      <class name="org.lwf.auto.TestGrun99Login">
+      <class name="org.lwf.auto.Test99GurnLoginWithPageFactory">
         <methods>
-          <include name="setUpTest"/>
-          <include name="testHomePageApperCorrect"/>
+          <include name="test1"/>
+          <include name="beforeTest"/>
         </methods>
-      </class> <!-- org.lwf.auto.TestGrun99Login -->
+      </class> <!-- org.lwf.auto.Test99GurnLoginWithPageFactory -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

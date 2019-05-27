@@ -16,5 +16,4 @@ public class Guru99HomePage {
 	public String getHomePageUserName(){
 		return webDriver.findElement(homePageUserName).getText();
 	}
-	
 }

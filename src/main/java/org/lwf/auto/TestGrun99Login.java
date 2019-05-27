@@ -41,4 +41,9 @@ public class TestGrun99Login {
 		login.quitBrower();
 	}
 	
+	@Test
+	public void testGurn99HomePage(){
+		
+	}
+	
 }
